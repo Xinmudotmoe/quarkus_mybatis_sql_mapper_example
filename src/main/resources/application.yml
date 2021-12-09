@@ -11,6 +11,7 @@ quarkus:
     xmlconfig:
       enable: true
       path: mybatis-config.xml
+    environment: development
   http:
     port: 8086
   application:
