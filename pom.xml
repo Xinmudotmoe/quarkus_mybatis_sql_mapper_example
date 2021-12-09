@@ -112,16 +112,6 @@
         </plugins>
     </build>
 
-    <repositories>
-        <repository>
-            <id>xinmu</id>
-            <url>https://xoss.xinmu.moe/maven/</url>
-        </repository>
-        <repository>
-            <id>public</id>
-            <url>https://maven.aliyun.com/repository/public</url>
-        </repository>
-    </repositories>
     <profiles>
         <profile>
             <id>native</id>
